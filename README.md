@@ -17,7 +17,7 @@ Proyecto desarrollado en Java que permite gestionar distintos tipos de recursos 
 
 ---
 
-##👩🏼‍💻 Autor
+## 👩🏼‍💻 Autor
 
 **Lucila Micaela Suarez**  
 
