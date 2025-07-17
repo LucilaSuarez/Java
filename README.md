@@ -19,6 +19,6 @@ Proyecto desarrollado en Java que permite gestionar distintos tipos de recursos 
 
 👩‍💻 Autor
 
-Lucila Micaela Suarez
+**Lucila Micaela Suarez**  
 
-Estudiante de Programación | Proyecto académico
+Proyecto realizado como práctica de Programación II (Java POO).
